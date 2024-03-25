@@ -1,0 +1,10 @@
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#final-price {
+  font-size: 2rem;
+  color: rgb(245, 92, 15);
+}
